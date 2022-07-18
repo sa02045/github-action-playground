@@ -8,6 +8,17 @@ categories:
   - title: 'ETC'
     label: 'documentation'
 change-template: '- $TITLE #$NUMBER @$AUTHOR '
+version-resolver:
+  major:
+    labels:
+      - 'major'
+  minor:
+    labels:
+      - 'minor'
+  patch:
+    labels:
+      - 'patch'
+  default: patch
 template: |
   ## Uncategorized
   $CHANGES
