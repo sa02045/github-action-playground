@@ -1,4 +1,4 @@
-name: CI
+name: create branch
 on:
   workflow_dispatch:
 jobs:
