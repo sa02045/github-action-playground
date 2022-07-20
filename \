@@ -1,0 +1,10 @@
+commit1
+# 대화형 리베이스 진행 중. 갈 위치는 401a327
+# Next commands to do (2 remaining commands):
+#    pick 89b8c3b commit2
+#    pick 859e484 1 (#21) # empty
+# 현재 'staging' 브랜치를 '401a327' 위로 리베이스하는 중입니다.
+#
+# 커밋할 변경 사항:
+#	수정함:        README.md
+#
